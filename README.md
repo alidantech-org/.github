@@ -6,7 +6,7 @@ We are a technology-driven organization focused on developing innovative digital
 
 ## 📫 Contact
 
-* 📧 Email: **[hello@alidantech.com](mailto:dev@alidantech.com)**
+* 📧 Email: **[dev@alidantech.com](mailto:dev@alidantech.com)**
 * 📞 Phone: **+254 746 977 253**
 * 📍 Location: **Nairobi, Kenya**
 
